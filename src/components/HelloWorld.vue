@@ -19,7 +19,7 @@ const count = ref(0)
     </p>
   </div>
 
-  <h1>Hello World</h1>
+  <h1>Web Tab</h1>
 </template>
 
 <style scoped>
